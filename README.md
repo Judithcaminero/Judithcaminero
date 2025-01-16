@@ -1,16 +1,18 @@
-<h1 aling="center"> Hi 👋 , I'm Judith</h1>
+# 👋 ¡Hola, soy Judith!
 
-<!--
-**Judithcaminero/Judithcaminero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **ASIR** y actualmente estoy trabajando en mi **Trabajo de Fin de Grado (TFG)** de manera independiente. Me apasiona la tecnología y estoy desarrollando habilidades en:
 
-Here are some ideas to get you started:
+- 🌐 **Desarrollo web**: HTML, CSS, JavaScript.  
+- 🛠️ **Administración de sistemas** y **redes**.  
+- 💻 Soluciones prácticas y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mi TFG:
+Estoy trabajando sobre la configuración y monitorizácion en una red empresarial segura mediante VLANs, VPN y cortafuegos.
+
+### 🎯 Objetivo:
+Crecer profesionalmente e ir aumentando mis conocimientos en el ámbito de la informática.
+
+---
+
+📫 **Conecta conmigo**:  
+Puedes escribirme a judith.camineromanzanas@gmail.com o visitar mis proyectos aquí en GitHub. ¡Gracias por pasarte!
