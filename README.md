@@ -15,8 +15,8 @@ Crecer profesionalmente e ir aumentando mis conocimientos en el ámbito de la in
 ---
 
 📨 **Conecta conmigo**:  
-Correo: judith.camineromanzanas@gmail.com
-Linkedin: https://www.linkedin.com/in/judith-caminero-manzanas-277481236/
+- Correo: judith.camineromanzanas@gmail.com
+- Linkedin: https://www.linkedin.com/in/judith-caminero-manzanas-277481236/
 
 📄 **Portfolio**:
 https://judithcaminero.github.io/Portfolio/
