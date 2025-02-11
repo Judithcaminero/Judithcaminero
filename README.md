@@ -7,7 +7,7 @@ Soy estudiante de **ASIR** y actualmente estoy trabajando en mi **Trabajo de Fin
 - 💻 Soluciones prácticas y automatización de procesos.
 
 ### 🚀 Sobre mi TFG:
-Estoy trabajando sobre la configuración y monitorizácion en una red empresarial segura mediante VLANs, VPN y cortafuegos.
+Estoy trabajando sobre la configuración y monitorizácion en una red empresarial segura mediante VLANs, VPN, cortafuegos y Sniffer.
 
 ### 🎯 Objetivo:
 Crecer profesionalmente e ir aumentando mis conocimientos en el ámbito de la informática.
