@@ -19,5 +19,5 @@ Crecer profesionalmente e ir aumentando mis conocimientos en el ámbito de la in
 - Linkedin: https://www.linkedin.com/in/judith-caminero-manzanas-277481236/
 
 📄 **Portfolio**:
-https://judithcaminero.github.io/Portfolio/
+https://judithcaminero.github.io/Portafolio/
 
